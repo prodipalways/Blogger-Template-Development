@@ -1,6 +1,6 @@
 # Blogger-Template-Development
 
-## First Insert Demo Code
+## 1.1 First Insert Demo Code
 ```
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
@@ -18,16 +18,17 @@
 </html>
 ```
 
-## In the head section after </title>
+## 1.2 In the head section after </title>
 ```
     <!--CSS For Web Page-->
     <b:skin>
 </b:skin>
 ```  
   
-## In body Section
+## 1.3 In body Section
 
 ```
     <b:section id='Layout_ID'/>
     <h1>Hellow Word</h1>
 ```
+### Now Save
