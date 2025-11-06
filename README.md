@@ -17,3 +17,17 @@
   
 </html>
 ```
+
+## In the head section after </title>
+```
+    <!--CSS For Web Page-->
+    <b:skin>
+</b:skin>
+```  
+  
+## In body Section
+
+```
+    <b:section id='Layout_ID'/>
+    <h1>Hellow Word</h1>
+```
