@@ -33,7 +33,7 @@
     <b:section id='Layout_ID'/>
     <h1>Hellow Word</h1>
 ```
-### 1.4 After The </b:skin>
+## 1.4 After The </b:skin>
 
 ```
      <!--CSS For Layout-->
