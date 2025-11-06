@@ -28,7 +28,16 @@
 ## 1.3 In body Section
 
 ```
+    <!--CSS For Web Page-->
+
     <b:section id='Layout_ID'/>
     <h1>Hellow Word</h1>
 ```
-### Now Save
+### After The </b:skin>
+
+```
+     <!--CSS For Layout-->
+    
+    <b:template-skin><![CDATA[
+    ]]></b:template-skin>
+```
