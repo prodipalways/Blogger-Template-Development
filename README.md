@@ -90,10 +90,4 @@ box-sizing:border-box;
  </b:if>
 ```
 
-## 2.5 After   b:section class='header-section' id='header' name='header area'/>
-
-```
-    <b:if cond='data:view.isHomepage'>
-      <h1>Hello Word</h1>
-      </b:if>
-```
+## 2.5 
