@@ -69,11 +69,23 @@ box-sizing:border-box;
 ## 2.1 After   meta content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale-1' name='viewport'/> add
 
 ```
-<b:if cond='data:view.isLayoutMode'>
+<b:if cond='!data:view.isLayoutMode'>
 ```
 
 ## 2.2 After the 	]]></b:skin add this and save
 
 ```
   </b:if>
+```
+
+## 2.3 After     --CSS For Layout-->
+
+```
+ <b:if cond='data:view.isLayoutMode'>
+```
+
+## 2.4 After /b:template-skin>
+
+```
+ </b:if>
 ```
