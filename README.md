@@ -90,4 +90,12 @@ box-sizing:border-box;
  </b:if>
 ```
 
-## 2.5 
+## 2.5 After <-- CSS For web page--> them *{} css then add
+
+```
+html{
+overflow-x:hidden;
+-webkit-text-size-adjust:100%
+-ms-text-size-adjust:100%
+}
+```
