@@ -41,7 +41,7 @@
     <b:template-skin><![CDATA[
     ]]></b:template-skin>
 ```
-## 2.0 Meta tag add after  </title>
+## 1.5 Meta tag add after  </title>
 
 ```
  <!--Meta Tags-->
@@ -50,7 +50,7 @@
   <meta content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale-1' name='viewport'/>
 ```
 
-## 2.1 After the <b:skin><![CDATA[
+## 1.6 After the <b:skin><![CDATA[
 
 ```
    *{
@@ -60,8 +60,20 @@ box-sizing:border-box;
     }
 ```
 
-## 2.2 In body Remove all and add this. Layout section we can see our changes
+## 1.7 In body Remove all and add this. Layout section we can see our changes
 
 ```
   <b:section class='header-section' id='header' name='header area'/>
+```
+# 2.0 If condition
+## 2.1 After   <meta content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale-1' name='viewport'/> add
+
+```
+<b:if cond='data:view.isLayoutMode'>
+```
+
+## 2.2 After the 	]]></b:skin> add this and save
+
+```
+  </b:if>
 ```
