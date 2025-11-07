@@ -41,4 +41,11 @@
     <b:template-skin><![CDATA[
     ]]></b:template-skin>
 ```
-## 2.0 Header Design
+## 2.0 Meta tag add after  </title>
+
+```
+ <!--Meta Tags-->
+
+  <meta charset='UTF-8'/>
+  <meta content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale-1' name='viewport'/>
+```
