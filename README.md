@@ -135,3 +135,17 @@ margin:0;
 padding:0;
 }
 ```
+## 3.2 In body Section remove all and add
+
+```
+ <!-- Header Section Start -->
+    
+    <header id='header'>
+      
+      <b:section id='header-section' maxwidgets='2' name='Header Section'/>
+      
+    </header>
+    
+    <!-- Header Section End -->
+
+```
