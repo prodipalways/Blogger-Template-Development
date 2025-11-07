@@ -26,11 +26,10 @@ padding:0;
     
     <header id='header'>
       
-      <b:section id='header-section' maxwidgets='2' name='Header Section'/>
+      <b:section id='header-section' maxwidget='2' name='Header Section'/>
       
     </header>
-    
+     
     <!-- Header Section End -->
-
 ```
-## 3.3 Layout, Header Section, Add a Gadged, Page Header, Blog Title: Testing Header, Blog Description: Give Your Image Link save
+## 3.3 Layout, Header Section, Add a Gadged, Page Header, Blog Title: Testing Header, Blog Description: Give Your Image Link, Add a Gadged, Link List, Give Menu, add Items and Link, Home, About US, Feature, Contact US, etc save, Reload Home Page. Now you see your logo and menue
