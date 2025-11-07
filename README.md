@@ -108,3 +108,11 @@ color:inherit;
 text-decoration:none;
 }
 ```
+
+## 2.6 Before  /body> add this for display something in my webpage
+
+```
+ <h1>Wellcome To Our Website</h1>
+```
+
+
