@@ -66,13 +66,13 @@ box-sizing:border-box;
   <b:section class='header-section' id='header' name='header area'/>
 ```
 # 2.0 If condition
-## 2.1 After   <meta content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale-1' name='viewport'/> add
+## 2.1 After   meta content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale-1' name='viewport'/> add
 
 ```
 <b:if cond='data:view.isLayoutMode'>
 ```
 
-## 2.2 After the 	]]></b:skin> add this and save
+## 2.2 After the 	]]></b:skin add this and save
 
 ```
   </b:if>
