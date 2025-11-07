@@ -49,3 +49,19 @@
   <meta charset='UTF-8'/>
   <meta content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale-1' name='viewport'/>
 ```
+
+## 2.1 After the <b:skin><![CDATA[
+
+```
+   *{
+margin:0;
+padding:0;
+box-sizing:border-box;
+    }
+```
+
+## 2.2 In body Remove all and add this. Layout section we can see our changes
+
+```
+  <b:section class='header-section' id='header' name='header area'/>
+```
