@@ -1,5 +1,5 @@
 # 3 Header Design
-## 3.1 <--CSS For Web Page--> then <a then add
+## 3.1 After <--CSS For Web Page--> then <a then add
 
 ```
 .widget{
