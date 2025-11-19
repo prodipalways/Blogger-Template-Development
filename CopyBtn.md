@@ -63,3 +63,22 @@ Your Text Here
       </code></pre>
   </div>
 ```
+
+## STEP 3 — Add JavaScript (before </body> )
+
+```
+<script>
+    function copyCode(button) {
+      let code = button.nextElementSibling.innerText;
+
+      navigator.clipboard.writeText(code).then(() => {
+        button.innerText = "Copied!";
+        button.style.borderColor = "#2ea043"; // GitHub green border
+        setTimeout(() => {
+          button.innerText = "Copy";
+          button.style.borderColor = "#30363d";
+        }, 1500);
+      });
+    }
+  </script>
+```
