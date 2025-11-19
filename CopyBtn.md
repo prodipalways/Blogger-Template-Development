@@ -64,7 +64,7 @@ Your Text Here
   </div>
 ```
 
-## STEP 3 — Add JavaScript (before </body> )
+## STEP 3 — Add JavaScript (before </body )
 
 ```
 <script>
