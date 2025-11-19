@@ -52,3 +52,14 @@
   </style>
 ```
 
+## STEP 2 — Add HTML To Your Post or Page
+
+```
+<h3>Google Form Quiz Script</h3>
+  <div class="code-boxrk">
+    <button class="copy-btnrk" onclick="copyCode(this)">Copy</button>
+    <pre><code>
+Your Text Here
+      </code></pre>
+  </div>
+```
